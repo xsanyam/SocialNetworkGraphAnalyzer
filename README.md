@@ -16,7 +16,7 @@
 - **Version Control**: Git & GitHub
 
 ## 📁 Project Structure
-
+```
 SocialNetworkGraphAnalyzer/
 ├── CMakeLists.txt       # CMake build configuration
 ├── Graph.hpp            # Graph class declaration
@@ -26,7 +26,7 @@ SocialNetworkGraphAnalyzer/
 ├── output/              # Output directory
 └── build/               # Build output directory
 
-
+```
 
 ## 🚀 How to Build & Run
 
@@ -36,23 +36,25 @@ SocialNetworkGraphAnalyzer/
 - CMake
 
 ### 🧱 Build Steps
-
+```bash
 mkdir -p output/build
 cd output/build
 cmake ../..
 cmake --build .
 
-
+``` 
 ▶️ Run
+```
 ./SocialNetworkGraphAnalyzer
-
+```
 
 ✅ Expected Output
+```text
 Social Network Connections:
 Charlie: Alice Bob
 Bob: Charlie Alice
 Alice: Charlie Bob
-
+```
 
 👨‍💻 Author
 -xsanyam
