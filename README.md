@@ -18,13 +18,14 @@
 ## 📁 Project Structure
 
 SocialNetworkGraphAnalyzer/
-├── CMakeLists.txt # CMake build configuration
-├── Graph.hpp # Graph class declaration
-├── Graph.cpp # Graph class definition
-├── main.cpp # Main function
-├── README.md # Project documentation
-└── output/
-└── build/ # Build output directory
+├── CMakeLists.txt       # CMake build configuration
+├── Graph.hpp            # Graph class declaration
+├── Graph.cpp            # Graph class definition
+├── main.cpp             # Main function
+├── README.md            # Project documentation
+├── output/              # Output directory
+└── build/               # Build output directory
+
 
 
 ## 🚀 How to Build & Run
@@ -41,8 +42,10 @@ cd output/build
 cmake ../..
 cmake --build .
 
+
 ▶️ Run
 ./SocialNetworkGraphAnalyzer
+
 
 ✅ Expected Output
 Social Network Connections:
@@ -51,8 +54,10 @@ Bob: Charlie Alice
 Alice: Charlie Bob
 
 
-👤 Author
-xsanyam
-📌 GitHub: xsanyam
-🎓 Student at IIT BHU | Aspiring SDE
+👨‍💻 Author
+-xsanyam
+
+-🔗 GitHub: xsanyam
+
+-🎓 Student at IIT BHU | Aspiring SDE
 
