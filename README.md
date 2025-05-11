@@ -56,10 +56,10 @@ Bob: Charlie Alice
 Alice: Charlie Bob
 ```
 
-👨‍💻 Author
--xsanyam
+## 👨‍💻 Author
 
--🔗 GitHub: xsanyam
+- **Name**: xsanyam  
+- 🔗 **GitHub**: [xsanyam](https://github.com/xsanyam)  
+- 🎓 **Affiliation**: Student at IIT BHU | Aspiring SDE
 
--🎓 Student at IIT BHU | Aspiring SDE
 
